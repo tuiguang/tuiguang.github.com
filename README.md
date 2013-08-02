@@ -10,8 +10,12 @@
 	searchbox
 	
  3 includes\JB\
+ 
 	comments-providers\disqus，weibo需要修改
+	
 	analytics 修改 增加百度分析
+	
 	comments 修改 增加微博评论
+	
  4 修改主题在_layouts的default.html中
- 5 
+ 
